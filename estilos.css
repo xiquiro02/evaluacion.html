@@ -1,0 +1,87 @@
+.titulos{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+.parrafo{
+    width: 500px;
+    height: 200px;
+    background-color: pink;
+    border: 5px solid red;
+    margin: 0 auto;
+
+}
+.boton{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+button{
+    width: 100px;
+    height: 100px;
+    border: 6px solid palegreen;
+    border-radius: 60px ;
+    background-color: green;
+}
+.shadow{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+.caja{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: palegoldenrod;
+    box-shadow: 9px 9px 10px yellow ;
+}
+.caja2{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: rgb(250, 128, 114);
+}
+.caja3{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: hsl(200,100%,50%) ;
+}
+.caja4{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: rgb(0,200,0) ;
+}
+.caja5{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: rgba(200, 100, 40, 0.5) ;
+}
+.caja6{
+    background-image: url(imagenes/golden-retriever-tongue-out.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-position: center ;
+    margin: 0 auto;
+    border: 6px solid blue; 
+}
+.attachment{
+    background-image: url(imagenes/images.jpg);
+    width: 900px;
+    height: 800px;
+    background-attachment: fixed ;
+    margin: 0 auto;
+}
+.caja7{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background: linear-gradient(green, blue, orange) ;
+}
+.correo{
+    font-size: 30px;
+}
